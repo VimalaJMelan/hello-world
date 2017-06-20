@@ -1,5 +1,7 @@
-Package hello-world
-public Static void main(String arg[])
-{
-System.Out.Println("Hello World!!!!")
+package hello-world
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
+
