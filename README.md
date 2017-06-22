@@ -1,2 +1,3 @@
 # hello-world
-Continuous Integration project Integration
+Continuous Integration project
+6/7/2017 - add readme
